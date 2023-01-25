@@ -1,5 +1,7 @@
 # Fit Me
 
+# Enable this(https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc) extension before clicking the live link to avoid the CORs error.
+
 #Live Demo - https://verdant-clafoutis-fe1ecd.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
